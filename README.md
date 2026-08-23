@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="mailto:vineethbaburajendran.sdet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-vineethbaburajendran.sdet@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Vineethbabu-Rajendran">
-    <img src="https://img.shields.io/badge/GitHub-Vineethbabu--Rajendran-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-https://github.com/Vineethbabu-Rajendran-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 

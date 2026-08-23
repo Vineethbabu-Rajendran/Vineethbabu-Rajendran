@@ -22,7 +22,6 @@
 - [📈 GitHub Activity](#-github-activity)
 - [🎯 Professional Focus](#-professional-focus)
 - [🎓 Education](#-education)
-- [📫 Connect With Me](#-connect-with-me)
 
 ---
 

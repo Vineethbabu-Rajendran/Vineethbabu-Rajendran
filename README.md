@@ -6,9 +6,6 @@
   <a href="mailto:vineethbaburajendran.sdet@gmail.com">
     <img src="https://img.shields.io/badge/Email-vineethbaburajendran.sdet%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-   <a href="https://github.com/Vineethbabu-Rajendran">
-    <img src="https://img.shields.io/badge/GitHub-Vineethbabu-Rajendran-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
 </p>
 
 > **7+ years of overall professional experience** with **3+ years of hands-on experience in Manual and Automation Testing**, specializing in scalable UI/API automation, framework development, quality engineering, and CI/CD.
@@ -317,45 +314,6 @@ AI-Assisted Development
 **KLN College of Information Technology**
 
 **CGPA:** 7.25 / 10
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="mailto:vineethbaburajendran.sdet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vineethbaburajendran.sdet%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Vineethbabu-Rajendran">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
-> 💡 **LinkedIn:** Add your actual LinkedIn profile URL here before publishing.
-
----
-
-## ⭐ Featured Repository Ideas
-
-If you are building this profile to showcase your SDET experience, consider pinning repositories such as:
-
-1. 🎭 **Playwright TypeScript Automation Framework**
-2. ☕ **Selenium Java Automation Framework**
-3. 🔌 **API Automation Framework**
-4. 🧪 **Test Automation Utilities**
-5. 🧩 **POM / Cucumber BDD Framework**
-6. ⚙️ **CI/CD Automation Examples**
-
-Each repository can include:
-
-- Architecture diagram
-- Framework structure
-- Setup instructions
-- Sample test cases
-- Execution commands
-- Reporting
-- CI/CD integration
-- Design decisions
 
 ---
 

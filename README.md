@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="mailto:vineethbaburajendran.sdet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vineethbaburajendran.sdet@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-vineethbaburajendran.sdet%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
    <a href="https://github.com/Vineethbabu-Rajendran">
     <img src="https://img.shields.io/badge/GitHub-Vineethbabu-Rajendran-black?style=for-the-badge&logo=github" alt="GitHub"/>

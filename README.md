@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vineeth Babu
+# Hi, I'm Vineeth Babu
 
 ### Senior SDET | Test Automation Engineer | Quality Engineering
 

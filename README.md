@@ -260,20 +260,6 @@ Playwright
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vineethbabu-Rajendran&show_icons=true&hide_border=true&count_private=true"
-    alt="Vineeth's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineethbabu-Rajendran&layout=compact&hide_border=true"
-    alt="Vineeth's top languages"
-  />
-</p>
-
----
 
 ## 🔍 What I Bring to a QA/SDET Team
 

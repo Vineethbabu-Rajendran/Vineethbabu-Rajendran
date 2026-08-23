@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-vineethbaburajendran.sdet@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
    <a href="https://github.com/Vineethbabu-Rajendran">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Vineethbabu-Rajendran-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 

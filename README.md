@@ -8,8 +8,6 @@
   </a>
 </p>
 
-> **7+ years of overall professional experience** with **3+ years of hands-on experience in Manual and Automation Testing**, specializing in scalable UI/API automation, framework development, quality engineering, and CI/CD.
-
 ---
 
 ## 🧭 Quick Navigation

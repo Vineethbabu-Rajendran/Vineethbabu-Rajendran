@@ -304,15 +304,6 @@ AI-Assisted Development
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Engineering — Electrical and Electronics Engineering
-
-**KLN College of Information Technology**
-
-**CGPA:** 7.25 / 10
-
----
 
 ## 📌 Quick Profile Summary
 
